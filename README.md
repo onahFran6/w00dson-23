@@ -8,7 +8,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/onah-francis-4860o)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/onahfran6)
 
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://mobile.twitter.com/Onahfran694) -->
 
@@ -34,7 +34,7 @@
 
 ### Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w00dson-23&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onahfran6&show_icons=true&theme=radical)
 
 <!-- ### Profile Visits -->
 
